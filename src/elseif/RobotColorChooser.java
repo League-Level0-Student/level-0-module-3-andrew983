@@ -43,11 +43,11 @@ public class RobotColorChooser {
 			SnaEK.setSpeed(200);// 6. If the user doesn’t enter anything, choose a random color
 	SnaEK.penDown();
 	SnaEK.move(75);
-	SnaEK.turn(95);
+	SnaEK.turn(100);
 	SnaEK.move(75);
-	SnaEK.turn(95);
+	SnaEK.turn(100);
 	SnaEK.move(75);
-	SnaEK.turn(95);
+	SnaEK.turn(100);
 	SnaEK.move(75);
 
 			// 7. Put a loop around your code so that you keep asking the user for more
